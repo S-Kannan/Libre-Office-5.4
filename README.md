@@ -1,0 +1,2 @@
+# Libre-Office-5.4
+The Libre Office is a software which is not up to the standard as for fonts is concerned. In countries like India people who are having different languages as their mother tongue. The Libre Office 5.4 can be understood by the various Languages speaking people in EU. So for getting into competition with MS Office, Libre Office 5.4 should be familiar with regional languages in INDIA.
